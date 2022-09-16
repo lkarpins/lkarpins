@@ -12,14 +12,17 @@
 I am a former Speech Language Pathologist turned Software Engineer. Creating accessible, inclusive, and beautiful applications is my favorite thing about software development. 
     
 ## Languages & Tools: 
-Languages
+### Languages
+
 <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 
-Frameworks & Libraries
+
+### Frameworks & Libraries
+    
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white">
@@ -32,17 +35,19 @@ Frameworks & Libraries
 <img align="center" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 
-Testing    
-<img align="center" src="">
-<img align="center" src="">
-<img align="center" src="">
-<img align="center" src="">
+### Testing 
     
-CI/CD
-<img align="center" src="">
-<img align="center" src="">
+<img align="center" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white">
 
-Design
+    
+### CI/CD
+    
+<img align="center" src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+
+### Design
+    
 <img align="center" src="">
 <img align="center" src="">
 <img align="center" src="">
