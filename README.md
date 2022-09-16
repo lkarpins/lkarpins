@@ -43,11 +43,13 @@ I am a former Speech Language Pathologist turned Software Engineer. Creating acc
 ### Design
     
 <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"><img align="center" src="">
-    
-
-
-    
-    
+        
 ## Github Stats: 
-    
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkarpins&show_icons=true&theme=dark)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lkarpins/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lkarpins/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
+
+
+
 
