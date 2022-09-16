@@ -47,9 +47,6 @@ I am a former Speech Language Pathologist turned Software Engineer. Creating acc
 ## Github Stats: 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lkarpins&show_icons=true&theme=dark)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lkarpins/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/lkarpins/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
-
 
 
 
