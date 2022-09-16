@@ -42,7 +42,7 @@ I am a former Speech Language Pathologist turned Software Engineer. Creating acc
 
 ### Design
     
-<img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"><img align="center" src="">
+<img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"><img align="center" src='https://img.shields.io/badge/Google_Fonts-100000?style=for-the-badge&logo=Google&logoColor=white&labelColor=6CCBD3&color=6CCBD3'/>
         
 ## Github Stats: 
 
