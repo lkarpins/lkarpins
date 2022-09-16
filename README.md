@@ -3,9 +3,19 @@
  
 <img src="https://media.giphy.com/media/xTiTnumdcQABBLgM92/giphy.gif" width="400">
  
-<h2 align="center">Front-End Software Engineer</h2>
-  <a href="mailto:lidiakarpinski@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">  
-  <a href="https://www.linkedin.com/in/lidia-karpinski/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <div id="badges" align="center">
+  <a href="mailto:lidiakarpinski@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="www.linkedin.com/in/lidia-karpinski">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://terminal.turing.edu/alumni/1490-lidia-karpinski">
+    <img src="https://img.shields.io/badge/Portfolio-5C8001?style=for-the-badge" alt="Turing Portfolio Badge"/>
+  </a>
+</div>
+
+
 </div>
 
 ## About Me: 
