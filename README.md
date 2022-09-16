@@ -19,8 +19,10 @@
 
 
 ## About Me: 
-I am a former Speech Language Pathologist turned Software Engineer. Creating accessible, inclusive, and beautiful applications is my favorite thing about software development. 
-    
+<p>As a former Speech Language Pathologist turned Software Engineer, my love for helping others and solving complex problems made for an easy transition into software development. Instead of teaching communication skills, I help people connect through accessible, inclusive, and responsive technology. I think the best applications are a product of team collaboration, creativity, and user empathy.</p>
+
+<p>In my free time, I enjoy spending time with family & friends, seeing live music, cross-stiching, and watching The Great British Bake Off :) </p>
+
 ## Languages & Tools: 
 ### Languages
 
