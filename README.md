@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Lidia Karpinski (she/her)</h2>
  
-<img src="https://media.giphy.com/media/xTiTnumdcQABBLgM92/giphy.gif" alt="art-giphy" width="275">
+<img src="https://media.giphy.com/media/26FPq8u5gvYO9GzoA/giphy.gif" alt="art-giphy" width="275">
  
   <div id="badges" align="center">
   <a href="mailto:lidiakarpinski@gmail.com">
