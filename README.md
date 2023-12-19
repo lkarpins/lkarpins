@@ -21,7 +21,6 @@
 ## About Me: 
 <p>As a former Speech Language Pathologist, my love for helping others and solving complex problems made for an easy transition into software development. Instead of teaching communication skills, I help people connect through accessible, inclusive, and responsive technology. I think the best applications are a product of team collaboration, creativity, and user empathy.</p>
 
-<p>In my free time, I enjoy family & friends, live music, cross-stitching, and episodes of The Great British Bake Off :) </p>
 
 ## Languages & Tools: 
 ### Languages
